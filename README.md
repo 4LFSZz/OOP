@@ -1,2 +1,2 @@
 # OOP
-Belaja OOP di SMK Angkasa mengasyikkan dan seru
+Belaja OOP di SMK Angkasa seru dan mengasyikkan
